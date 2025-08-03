@@ -34,8 +34,8 @@ The system consists of two main components:
 
 **Clone the repository**
 
- git clone [https://github.com/shubhamprasad318/ai\_wao\_agent](https://github.com/shubhamprasad318/ai_wao_agent)  
-cd ai\_wao\_agent
+ git clone [https://github.com/shubhamprasad318/ai\_wao\_agent](https://github.com/shubhamprasad318/ai_rag_agent_sip)  
+cd ai\_rag\_agent\_sip
 
 **Install dependencies**
 
